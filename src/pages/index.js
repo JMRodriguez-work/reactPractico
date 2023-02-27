@@ -1,0 +1,10 @@
+export { NotFound } from './NotFound';
+export { Home } from './Home';
+export { NewPassword } from './NewPassword';
+export { RecoveryPassword } from './RecoveryPassword';
+export { Checkout } from './Checkout';
+export { CreateAccount } from './CreateAccount';
+export { Login } from './Login';
+export { MyAccount } from './MyAccount';
+export { Orders } from './Orders';
+export { SendEmail } from './SendEmail';
